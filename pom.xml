@@ -15,7 +15,10 @@
           <target>1.8</target>
         </configuration>
 
-<!--- Hello this is comment line in this file-->
+<!--- Hello this is comment line in this file
+
+Here we are giving war package format
+-->
 
 
       </plugin>
