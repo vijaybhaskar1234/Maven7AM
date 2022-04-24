@@ -41,7 +41,7 @@ Here we are giving war package format
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.19.150:8081/repository/Cloud-Gen-Snap/</url>
+            <url>http://192.168.19.150:8081/repository/Ravindra-Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
