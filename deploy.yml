@@ -4,7 +4,7 @@
   vars:
     URL: URL-LOC
   tasks:
-    - name: Remove the older war files
+    - name: Remove the older war files from webapps folder
       file:
         name: "/opt/apache-tomcat-9.0.1/webapps/{{item}}"
         state: absent
